@@ -19,3 +19,12 @@ f"I like {food}"
 
 feeling = "happy"
 print(f"I'm so {feeling} to be learning how to code in Python!")
+
+#mulitline with f-string
+multiline_sentence = """Here is 
+a sentence 
+on many
+different lines>
+"""
+
+print(f"{multiline_sentence}")
