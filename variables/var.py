@@ -1,3 +1,4 @@
 
-reader = "YES!!"
-print(reader)
+favorite_number = 3
+
+type(favorite_number)
