@@ -33,3 +33,4 @@ print("\"Coding\" is \"cool\" in Python!")
 
 #print quotes with quotes
 print("\"Coding is a superpower! You can do so many cool things with your imagination and code.\"")
+print("\"Coding is a superpower! You can do so many cool things with your imgination and code.\"")
