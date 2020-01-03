@@ -12,3 +12,7 @@ type(favorite_number)
 
 #correct way 
 one_100_days_code = 100
+
+#f-string
+food ="cake"
+f"I like {food}"
