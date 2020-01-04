@@ -45,3 +45,25 @@ Coffee, lots of coding, and
 Teaching you Python
 """
 print(f"{haiku}")
+
+name = "codeXrook"
+
+adjective = "eating"
+
+favorite_snack = " oreos"
+
+number = "3"
+
+type_of_tree = "oak tree"
+
+silly_story =f"""
+Hi, my name is {name}, 
+I really like {adjective} {favorite_snack}
+Ilike it so much, I try to eat it at least {number}
+times
+every day.
+It taste even better when you eat it under a 
+{type_of_tree}!
+"""
+print(silly_story)
+
