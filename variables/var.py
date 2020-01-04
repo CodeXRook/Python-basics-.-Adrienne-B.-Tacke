@@ -37,3 +37,4 @@ print("\"Coding is a superpower! You can do so many cool things with your imgina
 print("\"quotes with quotes.\"")
 
 print("Hi! My name is rose.")
+print("\"Coding is a superpower.\'")
