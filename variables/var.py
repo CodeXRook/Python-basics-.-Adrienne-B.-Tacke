@@ -38,3 +38,10 @@ print("\"quotes with quotes.\"")
 
 print("Hi! My name is rose.")
 print("\"Coding is a superpower.\'")
+
+haiku = """
+Adrienne enjoys
+Coffee, lots of coding, and
+Teaching you Python
+"""
+print(f"{haiku}")
