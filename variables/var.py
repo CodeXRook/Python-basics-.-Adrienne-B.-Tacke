@@ -32,7 +32,8 @@ print(f"{multiline_sentence}")
 print("\"Coding\" is \"cool\" in Python!")
 
 #print quotes with quotes
-print("\"Coding is a superpower! You can do so many cool things with your imagination and code.\"")
+#you can also use single quotes in quotes
+print('\'Coding is a superpower! You can do so many cool things with your imagination and code.\'')
 print("\"Coding is a superpower! You can do so many cool things with your imgination and code.\"")
 print("\"quotes with quotes.\"")
 
@@ -67,3 +68,6 @@ It taste even better when you eat it under a
 """
 print(silly_story)
 
+first_name = 'Adrienne'
+full_name = 'codexrook'
+print(f'{first_name}')
