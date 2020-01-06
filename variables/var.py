@@ -71,3 +71,7 @@ print(silly_story)
 first_name = 'Adrienne'
 full_name = 'codexrook'
 print(f'{first_name}')
+
+first_name = 'Adrienne'
+full_name = 'codexrook'
+print(f'{first_name}')
